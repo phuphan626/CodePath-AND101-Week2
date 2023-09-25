@@ -33,7 +33,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src="https://submissions.us-east-1.linodeobjects.com/and101/56FtrV48.gif" title='Video Demo' width='' alt='Video Demo' />
+https://submissions.us-east-1.linodeobjects.com/and101/56FtrV48.gif
 
 GIF created with Kap
 
